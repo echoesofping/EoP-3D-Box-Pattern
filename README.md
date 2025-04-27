@@ -1,17 +1,17 @@
 ✨ Unique CSS Pattern Background with Hover Animation and Light/Dark Mode
 
 
-
+----
 
 This project is a beautiful, responsive background design made using pure HTML, CSS, and JavaScript. It features a unique patterned background, hoverable grid boxes, and a light/dark mode toggle — all with smooth transitions!
 
-
+----
 
 
 🚀 Live Demo
 👉 Click here to view the live demo - https://echoesofping.github.io/EoP-3D-Box-Pattern/
 
-
+----
 
 
 ✨ Features
@@ -25,7 +25,7 @@ This project is a beautiful, responsive background design made using pure HTML, 
 
 ⚡ No Frameworks — just clean HTML, CSS, and JavaScript.
 
-
+----
 
 
 
@@ -35,7 +35,7 @@ This project is a beautiful, responsive background design made using pure HTML, 
 └── script.js
 
 
-
+----
 
 🛠️ How to Run Locally
 Clone the repository: https://github.com/echoesofping/EoP-3D-Box-Pattern.git
@@ -44,7 +44,7 @@ Open index.html in your favorite browser.
 
 That's it! 🚀
 
-
+----
 
 
 
@@ -63,7 +63,7 @@ DOM Manipulation with JavaScript
 Responsive Web Design Principles
 
 
-
+----
 
 
 📢 Tutorial Video
@@ -72,7 +72,7 @@ Responsive Web Design Principles
 I explain everything step-by-step in a calm, beginner-friendly manner!
 
 
-
+----
 
 
 
@@ -82,7 +82,7 @@ I'm creating many more awesome frontend designs, background patterns, and cool U
 
 
 
-
+----
 
 
 ❤️ Support
@@ -96,7 +96,7 @@ If you found this project helpful, consider:
 
 
 
-
+----
 
 
 📬 Connect with Me
@@ -106,6 +106,7 @@ Twitter - https://x.com/ping_Arjun
 
 Hashnode Blog - https://echoesofping.hashnode.dev/
 
+----
 
 
 
